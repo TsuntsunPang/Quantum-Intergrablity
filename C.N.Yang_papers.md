@@ -1,4 +1,5 @@
-## Yang-Baxter equation
+##  Yang-Baxter equation
+
 ### 1.Some Exact Results for the Many-Body Problem in one Dimension with Repulsive Delta-Function Interaction
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.19.1312 
 ## Critial exponent $\quad$ $\beta=\frac{1}{8}$ in Ising model
@@ -22,3 +23,6 @@
 ### https://journals.aps.org/pr/pdf/10.1103/PhysRev.150.327
 ### $\quad$ One-Dimensional Chain of Anisotropic Spin-Spin Interactions. III. Applications
 ###  https://journals.aps.org/pr/pdf/10.1103/PhysRev.151.258
+## Yang-Yang Thermodynamic Bethe ansatz 
+### 7.Thermodynamics of a One‐Dimensional System of Bosons with Repulsive Delta‐Function Interaction
+### https://pubs.aip.org/aip/jmp/article/10/7/1115/222939/Thermodynamics-of-a-One-Dimensional-System-of
