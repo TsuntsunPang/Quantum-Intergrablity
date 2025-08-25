@@ -5,6 +5,25 @@
 ### https://homepages.dias.ie/dorlas/Papers/Bethe.pdf (English version)
 
 
+# III.  quantum gas and correlated electron system 
+## (1) Boson gas
+### Exact Analysis of an Interacting Bose Gas. I. The General Solution and the Ground State
+### https://journals.aps.org/pr/pdf/10.1103/PhysRev.130.1605
+### Exact Analysis of an Interacting Bose Gas. II. The Excitation Spectrum
+### https://journals.aps.org/pr/pdf/10.1103/PhysRev.130.1616
+## (2) Fermion gas
+### Some Exact Results for the Many-Body Problem in one Dimension with Repulsive Delta-Function Interaction
+### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.19.1312
+### Further Results for the Many-Body Problem in One Dimension
+### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.98
+### Model for a multicomponent quantum system
+### https://journals.aps.org/prb/pdf/10.1103/PhysRevB.12.3795
+## (3) Hubbard model 
+### Absence of Mott Transition in an Exact Solution of the Short-Range, One-Band Model in One Dimension
+### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.1445
+## (4) Kondo effect 
+
+
 
 
 
