@@ -10,7 +10,8 @@
 ### https://journals.aps.org/prb/pdf/10.1103/PhysRevB.49.6132
 ## 6. Some exact results for dilute mixed-valent and heavy-fermion systems (give an introduction to Bethe ansatz and detail Kondo effect, very good review)
 ### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0370157389901166
-
+## 7. Exact Results for Highly Correlated Electron Systems in One Dimension ( Summay paper on the application of Bethe ansatz in quantum gas, Hubbard model, long range interaction)
+### https://sci-hub.se/10.1142/s0217979297000368
 
 
 
