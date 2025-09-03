@@ -57,4 +57,6 @@
 ### https://sci-hub.se/https://link.springer.com/article/10.1007/BF01087245
 ### (V) Fermi gases in one dimension: From Bethe ansatz to experiments
 ###  https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.85.1633
+###  Integrble Models in Condensed Matter Physics
+###  https://arxiv.org/pdf/cond-mat/9408101
 
