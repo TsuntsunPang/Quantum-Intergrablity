@@ -4,6 +4,17 @@
 ### https://link.springer.com/article/10.1007/bf01341708
 ### https://homepages.dias.ie/dorlas/Papers/Bethe.pdf (English version)
 
+## (2) XXZ model
+###
+###
+###
+
+
+## (3) XYZ model
+### One-dimensional anisotropic Heisenberg chain--Baxter 
+### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491672902709?via%3Dihub
+###
+
 
 # III.  quantum gas and correlated electron system 
 ## (1) Boson gas
