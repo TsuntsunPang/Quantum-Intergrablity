@@ -15,6 +15,9 @@
 ### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491672902709?via%3Dihub
 ### Eight-Vertex Model in Lattice Statistics---- Baxter
 ### https://sci-hub.se/https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.832
+### One-Dimensional Anisotropic Heisenberg Chain ---Baxter PRL
+### https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.834
+
 
 
 # III.  quantum gas and correlated electron system 
