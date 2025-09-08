@@ -17,6 +17,12 @@
 ### https://sci-hub.se/https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.832
 ### One-Dimensional Anisotropic Heisenberg Chain ---Baxter PRL
 ### https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.834
+### Corner transfer matrices of the eight-vertex model. I. Low-temperature expansions and conjectured properties
+### https://sci-hub.se/https://link.springer.com/article/10.1007/BF01020802
+###
+###
+### Partition Function of the Eight-Vertex Lattice Mode---Baxter
+### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491672903351
 
 
 
