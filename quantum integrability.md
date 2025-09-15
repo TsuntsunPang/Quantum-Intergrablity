@@ -1,8 +1,10 @@
 # I. 1D Heisenberg model 
 ## （1) XXX chain  
-### On the Theory of Metals. I. Eigenvalues and eigenfunctions of a linear chain of atoms
+### On the Theory of Metals. I. Eigenvalues and eigenfunctions of a linear chain of atoms-----Bethe 
 ### https://link.springer.com/article/10.1007/bf01341708
 ### https://homepages.dias.ie/dorlas/Papers/Bethe.pdf (English version)
+### WHAT IS THE SPIN OF A SPIN WAVE?-----Faddeev, L.A. TAKHTAJAN
+### https://www.sciencedirect.com/science/article/abs/pii/0375960181903352
 
 ## (2) XXZ model
 ###
