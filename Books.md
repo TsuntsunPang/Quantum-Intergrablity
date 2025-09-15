@@ -12,4 +12,6 @@
 ##  Integrable systems, quantum groups and quantum field theories------L.A.Ibort and M.A.Rodriguez
 ##  Integrable quantum field theories-------   J.Hietarinta and C.Montonen  (Read Kulish part)
 ## The one-dimensional Hubbard model -----  Fabian H. L. Essler, ‎Holger Frahm, ‎Frank Göhmann
-##  
+##  Quantum Integrable Systems----- Asesh Roy Chowdhury, Aninlya Ghose Choudhury
+##  Classical and Quantum Nonlinear Integrable Systems: Theory and Application---- Kundu, Anjan
+##   Introduction to Classical Integrable Systems---- Olivier Babelon, Denis Bernard, Michel Talon
