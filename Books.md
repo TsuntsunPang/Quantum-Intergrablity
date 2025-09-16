@@ -7,7 +7,7 @@
 ##  Algebraic Analysis of Solvable Lattice Models---- Michio Jimbo, Tetsuji Miwa
 ##  An Introduction to Integrable Techniques for One-Dimensional Quantum Systems---- Fabio Franchini
 ##  Quantum many-body systems in one dimension----Zachary N C Ha
-##  quantum groups in two--dimensional physics
+##  quantum groups in two--dimensional physics-----Cisar Gómez, Martm Ruiz-Altaba, German Sierra
 ##  Off-Diagonal Bethe Ansatz for Exactly Solvable Models----- Yupeng Wang , Wen-Li Yang , Junpeng Cao , Kangjie Shi
 ##  Integrable systems, quantum groups and quantum field theories------L.A.Ibort and M.A.Rodriguez
 ##  Integrable quantum field theories-------   J.Hietarinta and C.Montonen  (Read Kulish part)
@@ -22,3 +22,4 @@
 ##  Exactly solvable problems in condensed matter and relativistic field theory---- Sriram B. Shastry, Sudhanshu S. Jha, Virendra Singh
 ##  Yang-Baxter Equation in Integrable Systems----  Michio Jimbo
 ##  String Theory Methods for Condensed Matter Physics----  Horațiu Năstase
+##  Conformal Field Theories and Integrable Models: Lectures Held at the Eötvös Graduate Course, Budapest, Hungary, 13–18 August 1996---Jürgen Fuchs (auth.), Zalán Horváth, László Palla (eds.)
