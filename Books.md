@@ -21,4 +21,4 @@
 ##  Models of Quantum matter : a first course on integrability and the Bethe Ansatz---- Hans-Peter Eckle
 ##  Exactly solvable problems in condensed matter and relativistic field theory---- Sriram B. Shastry, Sudhanshu S. Jha, Virendra Singh
 ##  Yang-Baxter Equation in Integrable Systems----  Michio Jimbo
-##  
+##  String Theory Methods for Condensed Matter Physics----  Horațiu Năstase
