@@ -16,3 +16,4 @@
 ##  Classical and Quantum Nonlinear Integrable Systems: Theory and Application---- Kundu, Anjan
 ##   Introduction to Classical Integrable Systems---- Olivier Babelon, Denis Bernard, Michel Talon
 ##   Algebraic Bethe Ansatz and Correlation Functions------Nikita Slavnov
+## Models of Quantum matter : a first course on integrability and the Bethe Ansatz---- Hans-Peter Eckle
