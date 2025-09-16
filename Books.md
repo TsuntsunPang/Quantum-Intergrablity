@@ -3,6 +3,7 @@
 ##  Exactly Solved Models in Statistical Mechanics---R.J.Baxter
 ##  Thermodynamics of one-dimensional solvable models  ----- M.Takahashi 
 ##  The Bethe wavefunction -----M.Gaudin
+##  Statistical field theory----Mussardo, Giuseppe
 ##  Beautiful models: 70 years of exactly solved quantum many-body problems---Sutherland 
 ##  Algebraic Analysis of Solvable Lattice Models---- Michio Jimbo, Tetsuji Miwa
 ##  An Introduction to Integrable Techniques for One-Dimensional Quantum Systems---- Fabio Franchini
