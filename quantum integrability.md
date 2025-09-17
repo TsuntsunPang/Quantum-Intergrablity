@@ -78,7 +78,9 @@
 ### Exact solution of the multichannel Kondo problem, scaling, and integrability
 ### https://sci-hub.se/https://link.springer.com/article/10.1007/BF01017853
 
-# III. Thermodynmaics Bethe ansatz
+# III. integrable model with  long range interaction 
+
+# IV. Thermodynmaics Bethe ansatz
 
 
 
