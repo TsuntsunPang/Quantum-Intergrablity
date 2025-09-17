@@ -97,4 +97,6 @@
 ###  https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.85.1633
 ###  (VI)  Integrble Models in Condensed Matter Physics
 ###  https://arxiv.org/pdf/cond-mat/9408101
+###  Two soluble models of an antiferromagnetic chain-----Elliott Lieb, Theodore Schultz, Daniel Mattis
+###  https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491661901154
 
