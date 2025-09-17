@@ -67,7 +67,7 @@
 ### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0375960180902121
 
 
-# III. Thermodynmaical Bethe ansatz
+# III. Thermodynmaics Bethe ansatz
 
 
 
