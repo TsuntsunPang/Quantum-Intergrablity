@@ -7,9 +7,12 @@
 ### https://www.sciencedirect.com/science/article/abs/pii/0375960181903352
 
 ## (2) XXZ model
-###
-###
-###
+### One-Dimensional Chain of Anisotropic Spin-Spin Interactions. I. Proof of Bethe's Hypothesis for Ground State in a Finite System
+### https://journals.aps.org/pr/pdf/10.1103/PhysRev.150.321
+### One-Dimensional Chain of Anisotropic Spin-Spin Interactions. II. Properties of the Ground-State Energy Per Lattice Site for an Infinite System
+### https://journals.aps.org/pr/pdf/10.1103/PhysRev.150.327
+### One-Dimensional Chain of Anisotropic Spin-Spin Interactions. III. Applications
+### https://journals.aps.org/pr/pdf/10.1103/PhysRev.151.258
 
 
 ## (3) XYZ model
