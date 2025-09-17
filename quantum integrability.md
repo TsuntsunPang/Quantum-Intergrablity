@@ -31,7 +31,7 @@
 
 
 
-# III.  quantum gas and correlated electron system 
+# II.  quantum gas and correlated electron system 
 ## (1) Boson gas
 ### Exact Analysis of an Interacting Bose Gas. I. The General Solution and the Ground State
 ### https://journals.aps.org/pr/pdf/10.1103/PhysRev.130.1605
@@ -65,6 +65,9 @@
 
 ### Towards an exact solution of the Anderson model
 ### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0375960180902121
+
+
+# III. Thermodynmaical Bethe ansatz
 
 
 
