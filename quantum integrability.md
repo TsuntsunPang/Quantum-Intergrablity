@@ -75,6 +75,8 @@
 ### Towards an exact solution of the Anderson model
 ### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0375960180902121
 
+### Exact solution of the multichannel Kondo problem, scaling, and integrability
+### https://sci-hub.se/https://link.springer.com/article/10.1007/BF01017853
 
 # III. Thermodynmaics Bethe ansatz
 
