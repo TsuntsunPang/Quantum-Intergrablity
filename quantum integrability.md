@@ -46,6 +46,15 @@
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.98
 ### Model for a multicomponent quantum system
 ### https://journals.aps.org/prb/pdf/10.1103/PhysRevB.12.3795
+### Study of Exactly Soluble One‐Dimensional N‐Body Problems
+### https://pubs.aip.org/aip/jmp/article/5/5/622/394322/Study-of-Exactly-Soluble-One-Dimensional-N-Body
+### Interacting Fermions in One Dimension. I. Repulsive Potential
+### https://pubs.aip.org/aip/jmp/article/6/3/432/595510/Interacting-Fermions-in-One-Dimension-I-Repulsive
+### Interacting Fermions in One Dimension. II. Attractive Potential
+### https://pubs.aip.org/aip/jmp/article/7/1/123/392097/Interacting-Fermions-in-One-Dimension-II
+
+
+
 ## (3) Hubbard model 
 ### Absence of Mott Transition in an Exact Solution of the Short-Range, One-Band Model in One Dimension
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.1445
