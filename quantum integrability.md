@@ -79,6 +79,12 @@
 ### https://sci-hub.se/https://link.springer.com/article/10.1007/BF01017853
 
 # III. integrable model with  long range interaction 
+### Exact Jastrow-Gutzwiller resonating-valence-bond ground state of the spin-1/2 antiferromagnetic Heisenberg chain with 1/r2 exchange
+### https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.60.635
+### Exact solution of an S=1/2 Heisenberg antiferromagnetic chain with long-ranged interactions--Shastry
+### https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.60.639
+
+
 
 # IV. Thermodynmaics Bethe ansatz
 
