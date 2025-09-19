@@ -90,7 +90,7 @@
 
 
 
-# Review papers on quantum integrability 
+#   Review papers on quantum integrability 
 ### (I) How Algebraic Bethe Ansatz works for integrable model
 ### https://sci-hub.se/https://www.worldscientific.com/doi/epdf/10.1142/9789814340960_0031
 ### https://arxiv.org/pdf/hep-th/9605187 (arxiv version)
@@ -109,4 +109,7 @@
 ###  https://arxiv.org/pdf/cond-mat/9408101
 ###  (VII) Two soluble models of an antiferromagnetic chain-----Elliott Lieb, Theodore Schultz, Daniel Mattis
 ###  https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491661901154
+#    Others 
+###  Yang-Baxter equation and representation theory: I---- P. P. Kulish, N. Yu. Reshetikhin & E. K. Sklyanin 
+###  https://sci-hub.se/https://link.springer.com/article/10.1007/BF02285311
 
