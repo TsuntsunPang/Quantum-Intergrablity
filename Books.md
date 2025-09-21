@@ -24,3 +24,4 @@
 ##  Yang-Baxter Equation in Integrable Systems----  Michio Jimbo
 ##  String Theory Methods for Condensed Matter Physics----  Horațiu Năstase
 ##  Conformal Field Theories and Integrable Models: Lectures Held at the Eötvös Graduate Course, Budapest, Hungary, 13–18 August 1996---Jürgen Fuchs (auth.), Zalán Horváth, László Palla (eds.)
+##  Mathematical Methods of Classical Mechanics.-----Vladimir Arnold
