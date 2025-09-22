@@ -89,6 +89,15 @@
 
 
 # IV. Thermodynmaics Bethe ansatz
+###
+###
+###  Quantum Many‐Body Problem in One Dimension: Ground State----Bill Sutherland
+###  https://pubs.aip.org/aip/jmp/article/12/2/246/223168/Quantum-Many-Body-Problem-in-One-Dimension-Ground
+###
+###
+###
+###
+
 
 
 
