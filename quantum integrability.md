@@ -117,8 +117,8 @@
 ###  https://academic.oup.com/ptp/article/44/4/899/1908795?searchresult=1
 ###  Excitation Spectrum of a One-Dimensional Many-Boson System---M.Takahashi
 ###  https://academic.oup.com/ptp/article/55/1/33/1855130?searchresult=1
-###
-###
+###  Thermodynamics of the Heisenberg-Ising Ring for 𝛥 >~1----M.Gaudin
+###  https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.1301
 ###
 ###
 
