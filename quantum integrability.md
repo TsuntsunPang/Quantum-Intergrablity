@@ -42,6 +42,8 @@
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.19.1312
 ### S-matrix for the one-dimensional N-body problem with repulsive or attractive δ-function interaction
 ### https://journals.aps.org/pr/pdf/10.1103/PhysRev.168.1920
+### Un systeme a une dimension de fermions en interaction----Gaudin
+### https://www.sciencedirect.com/science/article/abs/pii/0375960167901934
 ### Further Results for the Many-Body Problem in One Dimension
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.98
 ### Model for a multicomponent quantum system
