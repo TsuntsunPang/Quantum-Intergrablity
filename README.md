@@ -1,2 +1,2 @@
 # Quantum-Intergrability
-The papaers and books related to quantum integrability 
+The papaers and books are  related to quantum integrability 
