@@ -99,6 +99,8 @@
 ###  https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.1472
 ###  Thermodynamics of a One-Dimensional System of Fermions with a Repulsive 𝛿-Function Interaction----C.K.Lai
 ###  https://journals.aps.org/pra/abstract/10.1103/PhysRevA.8.2567
+###  Ground-State Energy of a Mixture of Fermions and Bosons in One Dimension with a Repulsive 𝛿-Function Interaction---C.K.Lai and C.N.Yang
+###  https://journals.aps.org/pra/abstract/10.1103/PhysRevA.3.393
 
 
 
