@@ -26,3 +26,4 @@
 ##  Conformal Field Theories and Integrable Models: Lectures Held at the Eötvös Graduate Course, Budapest, Hungary, 13–18 August 1996---Jürgen Fuchs (auth.), Zalán Horváth, László Palla (eds.)
 ##  Mathematical Methods of Classical Mechanics.-----Vladimir Arnold
 ##  EXACTLY SOLVABLE MODELS OF STRONGLY CORRELATED ELECTRONS-----Korepin, Fabian Esseler
+##  Correlation Effects in Low-Dimensional Electron Systems---Ayao Okiji, Norio Kawakami
