@@ -119,8 +119,12 @@
 ###  https://academic.oup.com/ptp/article/55/1/33/1855130?searchresult=1
 ###  Thermodynamics of the Heisenberg-Ising Ring for 𝛥 >~1----M.Gaudin
 ###  https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.1301
-###
-###
+###  Low-Temperature Specific-Heat of One-Dimensional Hubbard Model---M.Takahashi
+###  https://academic.oup.com/ptp/article/52/1/103/1854935?searchresult=1
+###  Magnetization Curve for the Half-Filled Hubbard Model---M.Takahashi 
+###  https://academic.oup.com/ptp/article/42/5/1098/1874213?searchresult=1
+###  Magnetic Susceptibility for the Half-Filled Hubbard Model---M.Takahashi
+###  https://academic.oup.com/ptp/article/43/6/1619/1870660?searchresult=1
 
 
 
