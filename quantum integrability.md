@@ -54,6 +54,8 @@
 ### https://pubs.aip.org/aip/jmp/article/6/3/432/595510/Interacting-Fermions-in-One-Dimension-I-Repulsive
 ### Interacting Fermions in One Dimension. II. Attractive Potential
 ### https://pubs.aip.org/aip/jmp/article/7/1/123/392097/Interacting-Fermions-in-One-Dimension-II
+### Delta-Function Fermi Gas with Two-Spin Deviates-----Michael Flicker* Elliott H. Lieb†
+### https://journals.aps.org/pr/abstract/10.1103/PhysRev.161.179
 
 
 
