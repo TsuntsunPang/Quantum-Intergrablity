@@ -89,14 +89,16 @@
 
 
 # IV. Thermodynmaics Bethe ansatz
-###
-###
+###  Thermodynamics of a One‐Dimensional System of Bosons with Repulsive Delta‐Function Interaction--- C. N. Yang; C. P. Yang
+###  https://pubs.aip.org/aip/jmp/article/10/7/1115/222939/Thermodynamics-of-a-One-Dimensional-System-of
 ###  Quantum Many‐Body Problem in One Dimension: Ground State----Bill Sutherland
 ###  https://pubs.aip.org/aip/jmp/article/12/2/246/223168/Quantum-Many-Body-Problem-in-One-Dimension-Ground
-###
-###
-###
-###
+###  Quantum Many-Body Problem in One Dimension: Thermodynamics----Bill Sutherland 
+###  https://pubs.aip.org/aip/jmp/article/12/2/251/223174/Quantum-Many-Body-Problem-in-One-Dimension
+###  Thermodynamics of Fermions in One Dimension with a $\delta$-Function Interaction*---C.K.Lai
+###  https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.1472
+###  Thermodynamics of a One-Dimensional System of Fermions with a Repulsive 𝛿-Function Interaction----C.K.Lai
+###  https://journals.aps.org/pra/abstract/10.1103/PhysRevA.8.2567
 
 
 
