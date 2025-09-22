@@ -101,7 +101,24 @@
 ###  https://journals.aps.org/pra/abstract/10.1103/PhysRevA.8.2567
 ###  Ground-State Energy of a Mixture of Fermions and Bosons in One Dimension with a Repulsive 𝛿-Function Interaction---C.K.Lai and C.N.Yang
 ###  https://journals.aps.org/pra/abstract/10.1103/PhysRevA.3.393
-
+###  One-Dimensional Heisenberg Model at Finite Temperature--M.Takahashi
+###  https://academic.oup.com/ptp/article/46/2/401/1868396
+###  One-Dimensional Anisotropic Heisenberg Model at Finite Temperatures----M.Takahashi
+###  https://academic.oup.com/ptp/article/48/6/2187/1857406?searchresult=1
+###  Ground State Energy of the One-Dimensional Electron System with Short-Range Interaction. I ---M.Takahashi
+###  https://academic.oup.com/ptp/article/44/2/348/1882541?searchresult=1
+###  One-Dimensional Electron Gas with Delta-Function Interaction at Finite Temperature -----M.Takahashi
+###  https://academic.oup.com/ptp/article/46/5/1388/1862296?searchresult=1
+###  One-Dimensional Hubbard Model at Finite Temperature----M.Takahashi
+###  https://academic.oup.com/ptp/article/47/1/69/1876401?searchresult=1
+###  Many-Body Problem of Attractive Fermions with Arbitrary Spin in One Dimension ---M.Takahashi
+###  https://academic.oup.com/ptp/article/44/4/899/1908795?searchresult=1
+###  Excitation Spectrum of a One-Dimensional Many-Boson System---M.Takahashi
+###  https://academic.oup.com/ptp/article/55/1/33/1855130?searchresult=1
+###
+###
+###
+###
 
 
 
