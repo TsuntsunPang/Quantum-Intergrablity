@@ -147,6 +147,8 @@
 ###  https://arxiv.org/pdf/cond-mat/9408101
 ###  (VII) Two soluble models of an antiferromagnetic chain-----Elliott Lieb, Theodore Schultz, Daniel Mattis
 ###  https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491661901154
+###  (VIII) Review of AdS/CFT Integrability: An Overview
+###  https://sci-hub.se/https://link.springer.com/article/10.1007/s11005-011-0529-2
 #    Others 
 ###  Yang-Baxter equation and representation theory: I---- P. P. Kulish, N. Yu. Reshetikhin & E. K. Sklyanin 
 ###  https://sci-hub.se/https://link.springer.com/article/10.1007/BF02285311
