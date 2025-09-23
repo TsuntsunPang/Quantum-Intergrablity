@@ -62,6 +62,9 @@
 ## (3) Hubbard model 
 ### Absence of Mott Transition in an Exact Solution of the Short-Range, One-Band Model in One Dimension
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.20.1445
+### Bethe-ansatz wave function, momentum distribution, and spin correlation in the one-dimensional strongly correlated Hubbard model----Masao Ogata and Hiroyuki Shiba
+### https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.2326
+
 ## (4) Kondo effect 
 ### Diagonalization of the Kondo Hamiltonian
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.45.379
