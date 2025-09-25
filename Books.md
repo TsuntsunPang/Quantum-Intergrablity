@@ -27,3 +27,4 @@
 ##  Mathematical Methods of Classical Mechanics.-----Vladimir Arnold
 ##  EXACTLY SOLVABLE MODELS OF STRONGLY CORRELATED ELECTRONS-----Korepin, Fabian Esseler
 ##  Correlation Effects in Low-Dimensional Electron Systems---Ayao Okiji, Norio Kawakami
+## Quantum physics in one dimension-----   Thierry Giamarchi
