@@ -158,7 +158,11 @@
 ###  https://arxiv.org/abs/0912.3350
 ###  (XI) A pedagogical introduction to quantum integrability, with a view towards theoretical high-energy physics---J. Lamers
 ###  https://arxiv.org/abs/1501.06805
-
+###  (XII) 4-dimensional Chern-Simons theory and integrable field theories----Sylvain Lacroix
+###  https://arxiv.org/abs/2109.14278
+###  (XIII) Classical integrability----Alessandro Torrielli
+###  https://iopscience.iop.org/article/10.1088/1751-8113/49/32/323001
+###  (XIV)
 
 
 
