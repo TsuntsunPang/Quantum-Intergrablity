@@ -156,7 +156,8 @@
 ###  https://iopscience.iop.org/article/10.1088/1751-8121/ac5a8e
 ###  (X) Introduction to Quantum Integrability---- Anastasia Doikou, Stefano Evangelisti, Giovanni Feverati, Nikos Karaiskos
 ###  https://arxiv.org/abs/0912.3350
-
+###  (XI) A pedagogical introduction to quantum integrability, with a view towards theoretical high-energy physics---J. Lamers
+###  https://arxiv.org/abs/1501.06805
 
 
 
