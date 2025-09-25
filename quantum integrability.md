@@ -152,6 +152,19 @@
 ###  https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0003491661901154
 ###  (VIII) Review of AdS/CFT Integrability: An Overview
 ###  https://sci-hub.se/https://link.springer.com/article/10.1007/s11005-011-0529-2
+###  (IX) Introduction to classical and quantum integrability------Ana L Retore
+###  https://iopscience.iop.org/article/10.1088/1751-8121/ac5a8e
+###  (X) Introduction to Quantum Integrability---- Anastasia Doikou, Stefano Evangelisti, Giovanni Feverati, Nikos Karaiskos
+###  https://arxiv.org/abs/0912.3350
+
+
+
+
+
+
+
+
+
 #    Others 
 ###  Yang-Baxter equation and representation theory: I---- P. P. Kulish, N. Yu. Reshetikhin & E. K. Sklyanin 
 ###  https://sci-hub.se/https://link.springer.com/article/10.1007/BF02285311
